@@ -219,5 +219,6 @@
     <Build Include="Security\SalesLT.sql" />
     <Build Include="SalesLT\Sequences\SalesOrderNumber.sql" />
     <Build Include="Security\SQLUserWithPassword.sql" />
+    <Build Include="SalesLT\Views\NewProductView.sql" />
   </ItemGroup>
 </Project>
